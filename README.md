@@ -1,2 +1,2 @@
 # trovo_api_rust
-Api for Rust
+Api for Trovo in Rust
