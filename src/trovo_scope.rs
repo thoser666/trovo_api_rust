@@ -1,4 +1,4 @@
-enum TrovoScope {
+enum trovo_scope {
     USER_DETAILS_SELF,
 
     CHANNEL_DETAILS_SELF,
